@@ -11,8 +11,8 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=Sanjeeban2411"> -->
     
   <h2>My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeeban2411&show_icons=true&theme=algolia&hide_border=true" width="48%"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeeban2411&theme=algolia&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeeban2411&show_icons=true&theme=algolia&hide_border=true" width="50%"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeeban2411&theme=algolia&hide_border=true" width="47%"/>
     
   <h2>My Mostly used languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeeban2411&layout=compact&theme=algolia&hide_border=true" width="48%"/>
